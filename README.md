@@ -4,3 +4,4 @@ A test2 repository.
 rebased
 3
 v2 code
+v23before rebase
